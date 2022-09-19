@@ -18,8 +18,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const PerspectiveWidget(),
-      // home: FlipWidget(title: 'Flip Animation'),
+      home: FlipWidget(title: 'Flip Animation'),
+      // home: const PerspectiveWidget(),
     );
   }
 }
