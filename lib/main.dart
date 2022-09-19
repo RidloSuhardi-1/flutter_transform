@@ -1,6 +1,9 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 
+import 'tugas/flip_widget.dart';
+import 'tugas/perspective_widget.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -15,7 +18,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const PerspectiveWidget(),
+      // home: FlipWidget(title: 'Flip Animation'),
     );
   }
 }
