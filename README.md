@@ -2,15 +2,23 @@
 
 A new Flutter project.
 
-## Getting Started
+## Praktikum
 
-This project is a starting point for a Flutter application.
+<img src="images/praktikum/hasil_praktikum.png">
 
-A few resources to get you started if this is your first Flutter project:
+- Rotated
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="images/praktikum/1.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Scale
+
+<img src="images/praktikum/2.png">
+
+- Translate
+
+<img src="images/praktikum/3.png">
+
+- Multi Transformations
+
+<img src="images/praktikum/4.png">
+<img src="images/praktikum/5.png">
